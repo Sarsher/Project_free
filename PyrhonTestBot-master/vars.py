@@ -13,7 +13,7 @@ from aiogram.types import Message, Location
 from textFiles import *
 
 
-API_TOKEN = '5281225626:AAEKBDAWuYSsN9d0cnPLLYyhCNq1A321VbI'
+API_TOKEN = '5105698958:AAHva8LwQaTcJ5o4uDKWskYHIIX6-0g-tkM'
 Weather_api = '877510dcf66d9ccb3493fb56b6920fb5'
 config_dict = get_default_config()
 config_dict['language'] = 'ru'
